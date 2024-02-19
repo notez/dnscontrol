@@ -11,6 +11,7 @@ D("blomkvist.xyz", REG_NONE, DnsProvider(DSP_CLOUDFLARE),
   //CNAME("@", "white-desert-005768003.2.azurestaticapps.net.", CF_PROXY_ON),
   CNAME("www", "blomkvist.xyz.", CF_PROXY_ON),
   A("router", "192.168.1.1"),
+  CNAME("*", "blomkvist.xyz.", CF_PROXY_ON),
   TXT('@', 'MS=ms69194623'),
  /*M365_BUILDER({
   initialDomain: "notez88gmail.onmicrosoft.com",
