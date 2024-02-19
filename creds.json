@@ -1,0 +1,14 @@
+{
+  "cloudflare.com": {
+    "TYPE": "CLOUDFLAREAPI",
+    "apitoken": "$CLOUDFLARE_API_TOKEN",
+    "accountid": "$CLOUDFLARE_ACCOUNT_ID"
+  },
+  "none": { "TYPE": "NONE" },
+  "powerdns": {
+    "TYPE": "POWERDNS",
+    "apiKey": "your-key",
+    "apiUrl": "http://localhost",
+    "serverName": "localhost"
+  }
+}

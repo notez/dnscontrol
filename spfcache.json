@@ -1,0 +1,5 @@
+{
+  "_spf.mx.cloudflare.net": {
+    "SPF": "v=spf1 ip4:104.30.0.0/19 ip6:2405:8100:c000::/38 ~all"
+  }
+}
